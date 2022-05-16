@@ -1,6 +1,5 @@
 //Joanne Afolabi
 
-// Code for Lab3
 var gl;
 var canvas;
 var shader;
